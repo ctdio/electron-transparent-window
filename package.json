@@ -1,0 +1,19 @@
+{
+  "name": "transparent-electron",
+  "version": "1.0.0",
+  "description": "Sample transparent electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "transparent"
+  ],
+  "author": "Charlie Duong",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.6.10"
+  }
+}
